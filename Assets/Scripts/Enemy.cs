@@ -15,4 +15,9 @@ public class Enemy : MonoBehaviour
     {
         
     }
+
+    void CooldownSimples()
+    {
+        
+    }
 }
